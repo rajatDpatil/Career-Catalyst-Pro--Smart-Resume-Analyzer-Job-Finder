@@ -1,6 +1,6 @@
 # 🚀 Career Catalyst Pro
 
-**AI-Powered Resume Analysis & Job Matching**
+**AI-Powered Resume Analysis & Job Recommender**
 
 <div align="center">
 
