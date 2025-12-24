@@ -11,21 +11,21 @@
 
 </div>
 
-## 📖 Overview
+## Overview
 
 Career Catalyst Pro leverages Google's powerful Gemini AI to analyze your resume and provide instant, actionable career insights. Simply upload your PDF resume to receive comprehensive skill analysis, personalized growth recommendations, and direct links to relevant job opportunities.
 
-## ✨ Features
+## Features
 
-- **🤖 AI Resume Analysis** - Extract and analyze key skills using Google Gemini AI
-- **📊 Skill Gap Identification** - Identify areas for professional improvement
-- **🎯 Personalized Career Roadmap** - Get tailored growth suggestions
-- **💼 Intelligent Job Matching** - Receive direct links to relevant job postings
-- **🎨 Modern UI Design** - Beautiful dark theme interface with glowing effects
-- **⚡ Fast Processing** - Quick analysis powered by Gemini 2.5 Flash
-- **🔒 Secure** - Your data is processed securely and not stored
+- ** AI Resume Analysis** - Extract and analyze key skills using Google Gemini AI
+- ** Skill Gap Identification** - Identify areas for professional improvement
+- ** Personalized Career Roadmap** - Get tailored growth suggestions
+- ** Intelligent Job Matching** - Receive direct links to relevant job postings
+- ** Modern UI Design** - Beautiful dark theme interface with glowing effects
+- ** Fast Processing** - Quick analysis powered by Gemini 2.5 Flash
+- ** Secure** - Your data is processed securely and not stored
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Google Colab (Recommended)
 
@@ -54,7 +54,7 @@ echo "APIFY_API_TOKEN=your_apify_token_here" >> .env
 python app.py
 ```
 
-## 🔑 API Setup
+## API Setup
 
 ### Gemini API Key
 1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
@@ -66,7 +66,7 @@ python app.py
 2. Navigate to Settings → Integrations
 3. Copy your API token
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 career-catalyst-pro/
@@ -78,29 +78,29 @@ career-catalyst-pro/
     └── screenshots/      # Application screenshots
 ```
 
-## 🎮 How to Use
+## How to Use
 
-1. **Upload Resume** 📄
+1. **Upload Resume** 
    - Click the upload area
    - Select your PDF resume file
    - Wait for file processing
 
-2. **Analyze Resume** 🔍
+2. **Analyze Resume** 
    - Click the "Analyze Resume" button
    - AI will extract and analyze your skills
    - Review the comprehensive analysis
 
-3. **Get Job Recommendations** 💼
+3. **Get Job Recommendations** 
    - View personalized job matches
    - Click direct application links
    - Apply to relevant positions
 
-4. **Follow Career Roadmap** 📈
+4. **Follow Career Roadmap** 
    - Review skill gap analysis
    - Follow improvement suggestions
    - Track your professional growth
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -111,33 +111,33 @@ career-catalyst-pro/
 | **PyPDF2** | PDF text extraction |
 | **Requests** | API communication |
 
-## 💡 Sample Output
+## Sample Output
 
 ```
-🎯 KEY SKILLS IDENTIFIED:
+ KEY SKILLS IDENTIFIED:
    • Python Programming (Advanced)
    • Machine Learning (Intermediate)
    • Data Analysis (Advanced)
    • SQL Database Management (Intermediate)
 
-⚡ IMPROVEMENT AREAS:
+ IMPROVEMENT AREAS:
    • Cloud Computing Certifications (AWS/Azure)
    • Advanced Machine Learning Frameworks
    • Leadership and Team Management Skills
 
-📈 CAREER ROADMAP:
+ CAREER ROADMAP:
    1. Obtain AWS Cloud Practitioner Certification
    2. Complete advanced ML course (TensorFlow/PyTorch)
    3. Attend industry networking conferences
    4. Develop portfolio projects showcasing skills
 
-💼 MATCHING JOBS FOUND:
+ MATCHING JOBS FOUND:
    • Senior Data Scientist at TechCorp → [Apply Now]
    • ML Engineer at StartupXYZ → [Apply Now]
    • Python Developer at BigTech → [Apply Now]
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -155,7 +155,7 @@ career-catalyst-pro/
 - **Documentation**: Check the [Wiki](https://github.com/yourusername/career-catalyst-pro/wiki)
 - **Community**: Join our [Discussions](https://github.com/yourusername/career-catalyst-pro/discussions)
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
@@ -164,18 +164,18 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Issue reporting
 - Feature requests
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google for the powerful Gemini AI API
 - Apify for job scraping capabilities
 - Gradio team for the amazing web interface framework
 - Open source community for various Python libraries
 
-## 🚀 Roadmap
+## Roadmap
 
 - [ ] Support for multiple resume formats (DOCX, TXT)
 - [ ] Advanced job filtering options
@@ -188,6 +188,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🎯 Start your career growth journey today!** 
+**Start your career growth journey today!** 
 
 </div>
